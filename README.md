@@ -1,2 +1,2 @@
-# HackerRank
-Some HackerRank challenges
+# Coding Dojo
+Coding dojos do membros da Rabbit.
